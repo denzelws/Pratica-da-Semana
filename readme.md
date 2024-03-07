@@ -1,3 +1,7 @@
+
+![_1abcfcfc-e30d-4192-b5b4-ae5b3ac9e41a-removebg-preview 1 (1)](https://github.com/denzelws/Pratica-da-Semana/assets/101350793/1b6e16cc-8e44-40b8-ac0f-9e276bf93680)
+
+
 # Prática da Semana
 
 Este repositório é dedicado a desafios diários de front-end para prática e aprimoramento de habilidades. Cada pasta no repositório representa um desafio único que já está pronto para ser abordado.
