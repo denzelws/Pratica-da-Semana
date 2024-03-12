@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@700&display=swap');
+
+#root {
+  max-width: 1280px;
+  font-family: 'Arimo', sans-serif;
+  margin: 0 auto;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 62.5%;
+}
+
