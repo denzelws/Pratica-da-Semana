@@ -6,7 +6,7 @@ Este repositório é dedicado a desafios diários de front-end para prática e a
 
 1. Clone este repositório para o seu ambiente local.
 2. Navegue até a pasta do desafio que você deseja resolver.
-3. Leia o arquivo README dentro da pasta do desafio para entender os requisitos do desafio.
+3. Leia o arquivo instructions.md dentro da pasta do desafio para entender os requisitos do desafio.
 4. Comece a codificar!
 
 ## Exemplos de Desafios

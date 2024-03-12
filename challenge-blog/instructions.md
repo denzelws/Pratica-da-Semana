@@ -18,7 +18,5 @@ Seu desafio é criar uma página de blog que se conecte a uma API externa para e
 
 ## Entrega
 
-- Crie um arquivo chamado `solucao.md` na pasta deste desafio para descrever a solução que você implementou.
-- Implemente sua solução para o desafio dentro da pasta deste projeto.
-
-Boa sorte!
+- Implemente sua solução para o desafio dentro da pasta src deste projeto e importe no App.tsx.
+- Caso queira ver a solução é só acessar a pasta solution-dev e importar o componente Posts no App.tsx.
